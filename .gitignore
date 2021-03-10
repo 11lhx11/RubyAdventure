@@ -1,3 +1,15 @@
+#myrule
+/Library
+/.vs
+*.vsconfig
+/Logs
+/obj
+/ProjectSettings
+/Packages
+/UserSettings
+*.sln
+*.csproj
+
 # Prerequisites
 *.d
 
